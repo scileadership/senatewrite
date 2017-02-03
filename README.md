@@ -10,7 +10,7 @@ ______
 #### Disclaimers
 Unless otherwise noted, this is all licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-We are a bunch of science nerds who organized some resources to ask science-minded citizens to contact their senators to tell them that science is important. We also believe in free (libre and gratis) software. This webapp is open, and absolutely anyone can use it. That said, we do not necessarily endorse, condone, agree with, accept,a support, or necessarily even particularly like the views of anyone that uses this webapp. Use of this webapp should not be considered implicit or explicit support for any cause by the volunteers of Science Informed Leadership.
+We are a bunch of science nerds who organized some resources to ask science-minded citizens to contact their senators to tell them that science is important. We also believe in free (libre and gratis) software. This webapp is open, and absolutely anyone can use it. That said, we do not necessarily endorse, condone, agree with, accept, support, or even particularly like the views of anyone that uses this webapp. Use of this webapp should not be considered implicit or explicit support for any cause by the volunteers of Science Informed Leadership.
 
 As with most free software, it comes with no warranty --  use it at your own risk.
 
