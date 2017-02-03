@@ -1,4 +1,4 @@
-<div align='center' width='50%'>
+<div align='center' width='200px'>
       <img src="http://www.scileadership.com/uploads/4/5/8/2/45827053/black-on-transparent_orig.png" alt="SCIENCE INFORMED LEADERSHIP">
 </div>
 # Science Informed Leadership App
