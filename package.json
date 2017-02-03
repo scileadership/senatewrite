@@ -1,0 +1,26 @@
+{
+  "name": "scileadership-senwrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scileadership/scileadership-app.git"
+  },
+  "author": "Ben Janes",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/scileadership/scileadership-app/issues"
+  },
+  "homepage": "https://github.com/scileadership/scileadership-app#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
