@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p style="text-align:center">
       <img src="http://www.scileadership.com/uploads/4/5/8/2/45827053/black-on-transparent_orig.png" alt="SCIENCE INFORMED LEADERSHIP" style="width:322px;height:193px;">
-</div>
+</p>
 # Science Informed Leadership App
 This webapp generates letters to congressmen based upon options that user select. The app then puts out a PDF of pre-addressed letters to senators. The letter content can be generic or customized to each senator. Regardless, all addresses and (if a call script is desired, telephone numbers) are automatically populated. All content can be edited by the user. Uses node.js on the client side to generate the PDF.
 
