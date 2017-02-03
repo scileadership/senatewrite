@@ -1,5 +1,5 @@
 <div align='center'>
-<a href='http://app.scileadership.com' target='_blank'>
+<a href="http://app.scileadership.com" target="_blank">
       <img src="http://www.scileadership.com/uploads/4/5/8/2/45827053/black-on-transparent_orig.png" alt="SCIENCE INFORMED LEADERSHIP" width='300'>
       </a>
 </div>
