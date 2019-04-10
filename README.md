@@ -19,6 +19,9 @@ We are a bunch of science nerds who organized some resources to ask science-mind
 
 As with most free software, it comes with no warranty --  use it at your own risk.
 
+______
+#### Who made this?
 Questions should be directed to [info@scileadership.com](mailto:info@scileadership.com).
 
 Our website is [scileadership.com](http://scileadership.com).
+This work would have been impossible without the help of [Ben Janes]www.benjanes.com). He's on [GitHub](https://github.com/benjanes). Thanks Ben.
