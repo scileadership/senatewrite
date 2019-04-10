@@ -24,4 +24,4 @@ ______
 Questions should be directed to [info@scileadership.com](mailto:info@scileadership.com).
 
 Our website is [scileadership.com](http://scileadership.com).
-This work would have been impossible without the help of [Ben Janes]www.benjanes.com). He's on [GitHub](https://github.com/benjanes). Thanks Ben.
+This work would have been impossible without the help of [Ben Janes](www.benjanes.com). He's on [GitHub](https://github.com/benjanes). Thanks Ben.
